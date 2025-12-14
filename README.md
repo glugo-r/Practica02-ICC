@@ -10,6 +10,6 @@ Este proyecto busca la creación correcta de usuarios, ya sea empleados o admini
 Java
 
 ## Instrucciones de Ejecución
-Compilar desde src: " javac modulos/Usuario.java Main.java "
+Compilar desde src: "javac modulos/Usuario.java Main.java"
 
-Ejecutar el programa desde src: " java Main "
+Ejecutar el programa desde src: "java Main"
